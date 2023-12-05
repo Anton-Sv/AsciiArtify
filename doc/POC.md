@@ -1,5 +1,6 @@
-#AsciiArtify project
-##List of actions to activate ArgoCD
+# AsciiArtify project
+
+## List of actions to activate ArgoCD
 
 1. Start minikube cluster with **minikube start**. All next actions will be with **kubectl**.
 ![Image](../.data/minikube-start.png)
@@ -25,5 +26,5 @@
 8. If credentials are OK you will see the Dashboard.
 ![Image](../.data/dashboard-look.png)
 
-##Demonstration
+## Demonstration
 ![Image](../.data/argocd-poc-demo.gif)
