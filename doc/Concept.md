@@ -30,7 +30,7 @@ One of the primary benefits of KinD is its flexibility. It allows you to customi
 One of the primary benefits of k3d is its speed. It can create a fully functional Kubernetes cluster in just a few seconds, and it requires minimal configuration. All you need to have is config file for your cluster. Additionally, k3d provides a built-in dashboard that allows you to view and manage your cluster from a web browser. Also it comed with traefik as an ingress controller. However, K3D does not provide so many features on the command line compared to minikube. 
 
 ## Demo:
-![Image](../.data/demo.gif)
+![Image](.data/demo.gif)
 
 ## Conclusion:
 When it comes to choosing between Minikube, KinD, and k3d, there is no clear winner. Each tool has its own unique features and benefits, and the best choice for you will depend on your specific needs and preferences.
